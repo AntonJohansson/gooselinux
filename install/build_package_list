@@ -73,4 +73,4 @@ http://www.linuxfromscratch.org/patches/lfs/6.6/perl-5.10.1-libc-1.patch
 http://www.linuxfromscratch.org/patches/lfs/6.6/perl-5.10.1-utf8-1.patch
 http://www.linuxfromscratch.org/patches/lfs/6.6/procps-3.2.8-watch_unicode-1.patch
 http://www.linuxfromscratch.org/patches/lfs/6.6/vim-7.2-fixes-5.patch
-
+https://raw.githubusercontent.com/AntonJohansson/gooselinux/master/install/build.sh
